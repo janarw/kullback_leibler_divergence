@@ -1,8 +1,8 @@
 # Kullback-Leibler Divergence
 [GitHub Link](https://github.com/janarw/kullback_leibler_divergence)
 
-This is how I compute and analyse relative entropy, also known as Kullback-Leibler divergence (KLD), between US president's Inaugural Addresses in my Master's thesis.  
-The foundation of the Bag of Words (BoW) class is from: [https://towardsdatascience.com/how-to-turn-text-into-features-478b57632e99](https://towardsdatascience.com/how-to-turn-text-into-features-478b57632e99)  
+This is how I compute relative entropy, also known as Kullback-Leibler divergence (KLD), to diachronically analyse US president's Inaugural Addresses in my Master's thesis.  
+The foundation of the Bag of Words (BoW) class belongs to: [https://towardsdatascience.com/how-to-turn-text-into-features-478b57632e99](https://towardsdatascience.com/how-to-turn-text-into-features-478b57632e99)  
 All further development is by Jana W.  
 
 # Corpus construction and vectorization
