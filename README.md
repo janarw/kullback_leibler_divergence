@@ -23,6 +23,6 @@ KLD is an asymmetrical measure and, thus, has different results for modelling P 
 Word clouds are used for visulatisation of the partcular words that are most responsible for KLD. For this, a fuction to compute the pointwise KLD of each word (see Degateano-Ortlieb & Teich 2019) is added to the BoW class.  
 In the python package Wordcloud, words are randomly coloured by default. With a modification of the colouring scheme we achieve definite colours depending on the pointwise KLD of the words. The colours are attributed as follows:  
 
-pointwise KLD >$=$ 0.01 results in red, 0.008 $=$ orange, 0.006 $=$ green, 0.004 $=$ cyan, 0.002 $=$ blue, 0 $=$ purple.  
+pointwise KLD >= 0.01 results in red, 0.008 = orange, 0.006 = green, 0.004 = cyan, 0.002 = blue, 0 = purple.  
 
 ![example_wordcloud](https://github.com/janarw/kullback_leibler_divergence/blob/main/Images/Analyse_Teil2/wordcloud_kld(TEST).png)
